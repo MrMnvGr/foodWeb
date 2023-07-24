@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:blanchedalmond;
+}
+#logo{
+    color:red;
+    font-size: 35px;
+}
+a{
+    margin-right: 160px;
+    text-decoration:none;
+    color: black;
+    
+}
+#navbar{
+    text-align: center;
+    border: 3px solid black;
+}
+    
+
+.food{
+    background-color:blanchedalmond;
+    display: inline-block;
+    padding: 5%  5% 5% 5%;
+    opacity: 85%;
+    width: 50px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    
+  
+}
+
+
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#blog{
+    border: 3px solid black;
+}
+#us{
+    border: 3px solid black;
+}
+.about{
+    color: white;
+    background-color: black;
+    border: 3px solid white;
+}
+ .au{
+    background-color: #E1ECC8;
+ }
+ .nb{
+    background-color:bisque;
+ }
+ #ss{
+    background-color: blanchedalmond;
+ }
+ h3{
+    text-align: center;
+    
+ }
+ .rm{
+    background-color:bisque;
+    padding: 5%  5% 5% 5%;
+    opacity: 85%;
+    width: 550px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-right: 60px;
+    
+    
+ }
+ .sm{
+    background-color:bisque;
+    padding: 5%  5% 5% 5%;
+    opacity: 85%;
+    width: 550px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-right: 60px;
+ }
+ .gs{
+    background-color:bisque;
+    padding: 5%  5% 5% 5%;
+    opacity: 85%;
+    width: 550px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-left: 60px;
+    
+ }
+ .ij{
+    background-color: bisque;
+    border: 3px solid black;
+ }
+ .m1{
+    border: 2px solid black;
+ }
+ .m2{
+    border: 2px solid black;
+ }
+ .m3{
+    border: 2px solid black;
+ }
+ #ss{
+    border: 2px solid black;
+ }
+ img:hover{
+    opacity: 3.0;
+ }
+ div.background {
+    background: url(wide.jpg) repeat;
+    border: 2px solid black;
+    display:block;
+    text-align: center;
+  }
+  
+  div.transbox {
+    margin: 25px;
+    background-color: #ffffff;
+    border: 2px solid black;
+    opacity: 0.4;
+    
+  }
+  
+  div.transbox p {
+    margin: 10%;
+    font-weight: bold;
+    color: #000000;
+  }
+
+button{
+    margin: auto;
+    
+}
+input{
+    margin: 1%;
+    color: #000000;
+}
+#heading{
+background-color: #000000;
+color: white;
+border: 2px solid white;
+}
+#form{
+border: 3px solid black;
+font-size: medium;
+font-family: Verdana;
+background-color: #E1ECC8;
+text-align: center;
+display:block;
+position: relative;
+margin-right: auto;
+margin-left: auto;
+width: 30%;
+
+}
+.a{
+    text-align: center;
+}
+.p1{
+    background-color:bisque;
+    padding: 5%  5% 5% 5%;
+    opacity: 85%;
+    position: relative;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-left: 60px;
+    bottom: 250px;
+    
+}
+.p2{
+    background-color:bisque;
+    padding: 5%  5% 5% 5%;
+    opacity: 85%;
+    position: relative;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-right: 60px;
+    bottom: 250px;
+    
+}
+.p3{
+    background-color:bisque;
+    padding: 5%  5% 5% 5%;
+    opacity: 85%;
+    position: relative;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-left: 60px;
+    bottom: 250px;
+} 
